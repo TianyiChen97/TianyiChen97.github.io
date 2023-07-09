@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tianyi Chen(陈天一)"
-  avatar           : "profile.png"
+  avatar           : "/images/profile.png"
   bio              : "I am a 2nd year Ph.D student @ JHU AMS  "
   location         : "Location"
   employer         :
