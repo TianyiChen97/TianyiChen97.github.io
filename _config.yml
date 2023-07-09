@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Tianyi Chen's personal cyber space!"
 title_separator          : "-"
 name                     : &name "Tianyi Chen"
-description              : &description "PhD candidate at Johns Hopkins University Applied Math & Statistics department"
+description              : &description "Ph.D. candidate at Johns Hopkins University Applied Math & Statistics department"
 url                      : https://tianyichen97.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://tianyichen97.github.io"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : ""
+  github           : "https://github.com/TianyiChen97"
   google_plus      :
   keybase          :
   instagram        :

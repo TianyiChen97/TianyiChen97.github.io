@@ -1,15 +1,8 @@
 ---
-title: "Paper Title Number 2"
+title: "A Simple Spectral Failure Mode for Graph Convolutional Networks"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2021-8-13
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9513556'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Priebe, C. E., Shen, C., Huang, N., & **Chen, T**. (2021). A simple spectral failure mode for graph convolutional networks. IEEE Transactions on Pattern Analysis and Machine Intelligence, 44(11), 8689-8693.
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/9513556)
