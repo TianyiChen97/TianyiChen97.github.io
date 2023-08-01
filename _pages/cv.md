@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
 # Education
 
 -   B.S. in Renmin University of China, 2019
@@ -14,4 +15,6 @@ redirect_from:
 
 # Work experience
 
-Business Analysis Intern @ Beijing Chuncui Travel Co., Ltd. Beijing, China Mar 2019 - Jun 2019
+Business Analysis Intern \@ Beijing Chuncui Travel Co., Ltd. Beijing, China Mar 2019 - Jun 2019
+
+[Download](https://drive.google.com/file/d/14l4cKjTbe3HK-FX3p2mZnQDV0HMJYfik/view?usp=share_link)

@@ -7,7 +7,7 @@ venue: "Johns Hopkins University, AMS Department"
 date: 2020-Sep
 location: "Baltimore, Maryland"
 ---
-
+---------
 -   Intro to Optimization 2020 Spring
 
 -   Applied Statistics and Data Analysis2 2021 Spring
