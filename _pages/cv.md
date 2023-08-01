@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /files/TianyiChen_Resume_Academia.pdf
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -14,4 +14,4 @@ redirect_from:
 
 # Work experience
 
-Business Analysis Intern \@ Beijing Chuncui Travel Co., Ltd. Beijing, China Mar 2019 - Jun 2019
+Business Analysis Intern @ Beijing Chuncui Travel Co., Ltd. Beijing, China Mar 2019 - Jun 2019
