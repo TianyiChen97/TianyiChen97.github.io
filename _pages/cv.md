@@ -1,14 +1,11 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /files/TianyiChen_Resume_Academia.pdf
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
-
 # Education
 
 -   B.S. in Renmin University of China, 2019
@@ -17,4 +14,4 @@ redirect_from:
 
 # Work experience
 
-Business Analysis Intern \@ Beijing Chuncui Travel Co., Ltd. Beijing, China      Mar 2019 - Jun 2019
+Business Analysis Intern \@ Beijing Chuncui Travel Co., Ltd. Beijing, China Mar 2019 - Jun 2019
