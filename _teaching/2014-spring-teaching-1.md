@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate courses"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Johns Hopkins University, AMS Department"
-date: 2020-Sep
+date: 2024-July
 location: "Baltimore, Maryland"
 ---
 ---------
@@ -15,3 +15,5 @@ location: "Baltimore, Maryland"
 -   Applied Statistics and Data Analysis 2020 Fall 2022 Fall
 
 -   Statistics Theory 2021 Fall
+
+-   Time series anlayisis 2024 Spring
