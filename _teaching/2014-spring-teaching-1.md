@@ -8,12 +8,9 @@ date: 2024-July
 location: "Baltimore, Maryland"
 ---
 ---------
+
 -   Intro to Optimization 2020 Spring
-
--   Applied Statistics and Data Analysis2 2021 Spring
-
+-   Applied Statistics and Data Analysis 2  2021 Spring
 -   Applied Statistics and Data Analysis 2020 Fall 2022 Fall
-
--   Statistics Theory 2021 Fall
-
--   Time series anlayisis 2024 Spring
+-   Statistics Theory 2021 Fall 2024 Fall
+-   Time series analysis 2024 Spring
