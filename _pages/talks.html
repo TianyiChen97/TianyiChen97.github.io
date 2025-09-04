@@ -11,6 +11,17 @@ author_profile: true
 
 {% endif %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+<div class="talks-list">
+{% assign sorted_talks = site.data.talks | sort: "date" | reverse %}
+{% for talk in sorted_talks %}
+  <div style="margin-bottom: 1.5em;">
+    <div style="display: flex; justify-content: space-between;">
+      <span>"{{ talk.title }}"</span>
+      <span style="white-space: nowrap; margin-left: 2em;">{{ talk.date | date: "%b %d, %Y" }}</span>
+    </div>
+    <div style="padding-left: 1em;">
+      <em>{{ talk.venue }}{% if talk.location != "" %}, {{ talk.location }}{% endif %}</em>
+    </div>
+  </div>
 {% endfor %}
+</div>
