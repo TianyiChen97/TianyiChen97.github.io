@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+<div class="publications-list">
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  <p>{{ post.citation | remove: '<p>' | remove: '</p>' }}</p>
 {% endfor %}
+</div>
